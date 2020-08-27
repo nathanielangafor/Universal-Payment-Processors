@@ -4,7 +4,7 @@ Payment processors for Bitcoin, Ethereum, Ethereum Classic, and Cashapp. They ar
 
 
 
-My #1 priority in everything I do from business to fun is efficiency. Nothing is more efficient than autonomy so I found myself using these quite a lot and thought I share them in case anyone out there needs it.
+My #1 priority in everything I do is efficiency. Nothing is more efficient than autonomy so I found myself using these quite a lot and thought I would share them in case anyone out there needs it.
 
 
 
