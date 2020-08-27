@@ -26,4 +26,4 @@ The cashapp payment processor works by scrapping a user's email address for emai
 
 <h1> DISCLAIMER </h1>
 
-This was obviously a program made just for fun I do not recommend using this on large scale project purely due to the fact that I do not know if it can be exploited. 
+This was obviously a program made just for fun I do not recommend using this on large scale project purely due to the fact that I do not know if it can be exploited. Some precautions I took were checking if the payment came from the official Cashapp, and checking if the payment was actually recieved rather than pending.
