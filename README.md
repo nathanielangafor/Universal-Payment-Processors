@@ -3,7 +3,7 @@
 <hr>
 <br/>
 
-Although relatively outdated,```UPP``` is the most comprehensive list of payment processing gateways utilizing the Bitcoin, Ethereum, and Ethereum Classic blockchain along with Cashapp.
+Although relatively outdated,```UPP``` is the most comprehensive list of payment processing gateways utilizing the Bitcoin, Ethereum, and Ethereum Classic blockchains along with Cashapp.
 
 ## Use Case
 As a digital entrepreneur, one of the most important things is being able to be compensated for your work. These reference code snippets provide ways to implement a payment gateway in whatever product you might choose to create virtually. At the time, 17-year-old Angafor *allegedly* used these payment gateways to enable automatic currency conversion with a 10-15% markup rate.
